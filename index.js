@@ -25,7 +25,7 @@ document.getElementById("cr").innerHTML = " " + yr;
 
         setInterval(() => {
             document.getElementById("result").innerText = "Refresh Me";
-        }, 1500);
+        }, 2000);
 
 
 // console.log(randomNumber1);
